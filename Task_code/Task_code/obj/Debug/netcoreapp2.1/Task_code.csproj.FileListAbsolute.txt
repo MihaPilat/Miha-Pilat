@@ -1,0 +1,11 @@
+D:\Projecks\Miha-Pilat\Task_code\Task_code\bin\Debug\netcoreapp2.1\Task_code.deps.json
+D:\Projecks\Miha-Pilat\Task_code\Task_code\bin\Debug\netcoreapp2.1\Task_code.runtimeconfig.json
+D:\Projecks\Miha-Pilat\Task_code\Task_code\bin\Debug\netcoreapp2.1\Task_code.runtimeconfig.dev.json
+D:\Projecks\Miha-Pilat\Task_code\Task_code\bin\Debug\netcoreapp2.1\Task_code.dll
+D:\Projecks\Miha-Pilat\Task_code\Task_code\obj\Debug\netcoreapp2.1\Task_code.csprojAssemblyReference.cache
+D:\Projecks\Miha-Pilat\Task_code\Task_code\obj\Debug\netcoreapp2.1\Task_code.csproj.CoreCompileInputs.cache
+D:\Projecks\Miha-Pilat\Task_code\Task_code\obj\Debug\netcoreapp2.1\Task_code.AssemblyInfoInputs.cache
+D:\Projecks\Miha-Pilat\Task_code\Task_code\obj\Debug\netcoreapp2.1\Task_code.AssemblyInfo.cs
+D:\Projecks\Miha-Pilat\Task_code\Task_code\bin\Debug\netcoreapp2.1\Task_code.pdb
+D:\Projecks\Miha-Pilat\Task_code\Task_code\obj\Debug\netcoreapp2.1\Task_code.dll
+D:\Projecks\Miha-Pilat\Task_code\Task_code\obj\Debug\netcoreapp2.1\Task_code.pdb
