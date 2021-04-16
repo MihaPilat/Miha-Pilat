@@ -1,0 +1,11 @@
+D:\Projecks\Miha-Pilat\ZadanieKod\ZadanieKod\bin\Debug\netcoreapp2.1\ZadanieKod.deps.json
+D:\Projecks\Miha-Pilat\ZadanieKod\ZadanieKod\bin\Debug\netcoreapp2.1\ZadanieKod.runtimeconfig.json
+D:\Projecks\Miha-Pilat\ZadanieKod\ZadanieKod\bin\Debug\netcoreapp2.1\ZadanieKod.runtimeconfig.dev.json
+D:\Projecks\Miha-Pilat\ZadanieKod\ZadanieKod\bin\Debug\netcoreapp2.1\ZadanieKod.dll
+D:\Projecks\Miha-Pilat\ZadanieKod\ZadanieKod\bin\Debug\netcoreapp2.1\ZadanieKod.pdb
+D:\Projecks\Miha-Pilat\ZadanieKod\ZadanieKod\obj\Debug\netcoreapp2.1\ZadanieKod.csprojAssemblyReference.cache
+D:\Projecks\Miha-Pilat\ZadanieKod\ZadanieKod\obj\Debug\netcoreapp2.1\ZadanieKod.csproj.CoreCompileInputs.cache
+D:\Projecks\Miha-Pilat\ZadanieKod\ZadanieKod\obj\Debug\netcoreapp2.1\ZadanieKod.AssemblyInfoInputs.cache
+D:\Projecks\Miha-Pilat\ZadanieKod\ZadanieKod\obj\Debug\netcoreapp2.1\ZadanieKod.AssemblyInfo.cs
+D:\Projecks\Miha-Pilat\ZadanieKod\ZadanieKod\obj\Debug\netcoreapp2.1\ZadanieKod.dll
+D:\Projecks\Miha-Pilat\ZadanieKod\ZadanieKod\obj\Debug\netcoreapp2.1\ZadanieKod.pdb
